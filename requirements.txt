@@ -8,3 +8,4 @@ beautifulsoup4
 html5lib
 lxml
 python-magic
+sentence-transformers

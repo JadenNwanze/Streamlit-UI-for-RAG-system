@@ -9,3 +9,4 @@ html5lib
 lxml
 python-magic
 sentence-transformers
+faiss-cpu
